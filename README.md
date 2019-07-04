@@ -8,4 +8,5 @@ This was me playing around with an animation library, to see how useful it would
 
 I think it would be nice to outfit this with a Formspree form, so that you would then have a minimalist all-in-one event website solution. 
 
-If I was looking to remix this, that's what I'd do. 
+You can see I started on this as I have a component by that name, but it doesn't render to the screen - probably some interference from the animation library. So it's there if you want to build on it.
+
